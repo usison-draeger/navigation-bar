@@ -1,5 +1,5 @@
 {
-  "name": "@hugotomazi/capacitor-navigation-bar",
+  "name": "@usison-draeger/capacitor-navigation-bar",
   "version": "3.0.0",
   "description": "Capacitor Plugin for Navigation Bar",
   "main": "dist/plugin.cjs.js",
@@ -18,10 +18,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hugotomazi/navigation-bar.git"
+    "url": "git+https://github.com/usison-draeger/navigation-bar.git"
   },
   "bugs": {
-    "url": "https://github.com/hugotomazi/navigation-bar/issues"
+    "url": "https://github.com/usison-draeger/navigation-bar/issues"
   },
   "keywords": [
     "capacitor",
@@ -63,7 +63,7 @@
     "typescript": "~5.4.5"
   },
   "peerDependencies": {
-    "@capacitor/core": "^4.0.1 || ^6.1.0"
+    "@capacitor/core": "^6.1.0"
   },
   "prettier": "@ionic/prettier-config",
   "swiftlint": "@ionic/swiftlint-config",
